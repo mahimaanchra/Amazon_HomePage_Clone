@@ -1,5 +1,7 @@
 # Amazon Home Page Clone
 
+**Live Demo:** [View the Live Site](https://amazon-home-page-clone-olive.vercel.app/)
+
 A responsive front-end web development project that replicates the layout, styling, and structural design of the Amazon desktop homepage. This project was built using semantic HTML5 and custom layout-driven CSS3.
 
 ##  Features
